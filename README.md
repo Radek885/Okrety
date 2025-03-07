@@ -6,4 +6,4 @@ Windows form aplication made as computer graphic project.
 Just download <a href="release/Okrety.zip">this archive</a>, extract it and run .exe file.
 
 # Credits
-Code and graphics made by me
+Code and graphics made by me.
