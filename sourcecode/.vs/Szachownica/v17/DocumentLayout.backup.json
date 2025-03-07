@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15AC88-CA21-4089-9AD5-BC3911E6210F}|Szachownica\\Statki.csproj|c:\\radzio\\programowanie\\vsstuff\\projekty\\szachownica\\szachownica\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC15AC88-CA21-4089-9AD5-BC3911E6210F}|Szachownica\\Statki.csproj|solutionrelative:szachownica\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15AC88-CA21-4089-9AD5-BC3911E6210F}|Szachownica\\Statki.csproj|c:\\radzio\\programowanie\\vsstuff\\projekty\\szachownica\\szachownica\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC15AC88-CA21-4089-9AD5-BC3911E6210F}|Szachownica\\Statki.csproj|solutionrelative:szachownica\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15AC88-CA21-4089-9AD5-BC3911E6210F}|Szachownica\\Statki.csproj|c:\\radzio\\programowanie\\vsstuff\\projekty\\szachownica\\szachownica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC15AC88-CA21-4089-9AD5-BC3911E6210F}|Szachownica\\Statki.csproj|solutionrelative:szachownica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\Szachownica\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Szachownica\\Form1.Designer.cs",
+              "ToolTip": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\Szachownica\\Form1.Designer.cs",
+              "RelativeToolTip": "Szachownica\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-12T19:45:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\Szachownica\\Form1.cs",
+              "RelativeDocumentMoniker": "Szachownica\\Form1.cs",
+              "ToolTip": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\Szachownica\\Form1.cs",
+              "RelativeToolTip": "Szachownica\\Form1.cs",
+              "ViewState": "AQIAANEBAAAAAAAAAAAAADABAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T09:49:51.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI.cs",
+              "DocumentMoniker": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\Szachownica\\AI.cs",
+              "RelativeDocumentMoniker": "Szachownica\\AI.cs",
+              "ToolTip": "C:\\Radzio\\programowanie\\VSStuff\\projekty\\Szachownica\\Szachownica\\AI.cs*",
+              "RelativeToolTip": "Szachownica\\AI.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-12T17:49:55.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
