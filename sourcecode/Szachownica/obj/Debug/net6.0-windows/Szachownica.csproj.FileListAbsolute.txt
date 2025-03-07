@@ -1,0 +1,17 @@
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Szachownica.exe
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Szachownica.deps.json
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Szachownica.runtimeconfig.json
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Szachownica.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Szachownica.pdb
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.csproj.AssemblyReference.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.csproj.GenerateResource.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.AssemblyInfoInputs.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.AssemblyInfo.cs
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.csproj.CoreCompileInputs.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\refint\Szachownica.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.pdb
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.genruntimeconfig.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\ref\Szachownica.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.ShipPanel.resources

@@ -1,0 +1,16 @@
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Statki.exe
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Statki.deps.json
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Statki.runtimeconfig.json
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Statki.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\bin\Debug\net6.0-windows\Statki.pdb
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.csproj.GenerateResource.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.AssemblyInfoInputs.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.AssemblyInfo.cs
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.csproj.CoreCompileInputs.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\refint\Statki.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.pdb
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Statki.genruntimeconfig.cache
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\ref\Statki.dll
+C:\Radzio\programowanie\VSStuff\projekty\Szachownica\Szachownica\obj\Debug\net6.0-windows\Szachownica.Form1.resources
